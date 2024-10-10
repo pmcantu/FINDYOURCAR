@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+/* CSS: style.css */
+.image_top {
+  width: 300px;           /* Adjust the image width */
+  height: auto;           /* Maintain aspect ratio */
+  border: 2px solid black; /* Add a border */
+  border-radius: 10px;     /* Rounded corners */
+  display: block;         /* Make the image a block element */
+  margin: 20px auto;      /* Center the image horizontally */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Add shadow */
+  transform: rotate(5deg); /* Rotate image slightly */
+}
