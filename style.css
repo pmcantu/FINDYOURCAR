@@ -157,7 +157,7 @@
    .Search_bar {
     position: absolute;
     top: 20%;
-    left: 30%;
+    left: 24%;
     width: 100%;
     max-width: 600px;
     
@@ -183,5 +183,10 @@
  }
  .magnify_glass:hover {
   color:#ff328f;
+ }
+ .display_typeInfo {
+  position:absolute;
+  top: 40%;
+  left: 30%;
  }
    
