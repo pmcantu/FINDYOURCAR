@@ -186,7 +186,12 @@
  }
  .display_typeInfo {
   position:absolute;
-  top: 40%;
+  top: 400%;
   left: 30%;
+ }
+ .s_results {
+  font-size: 40px;
+  font-weight: 700;
+  
  }
    
