@@ -188,10 +188,29 @@
   position:absolute;
   top: 400%;
   left: 30%;
- }
- .s_results {
   font-size: 40px;
   font-weight: 700;
-  
+ }
+ .text3 {
+  position:absolute;
+  top: 46%;
+  left: 10%;
+  font-size: 40px;
+  font-weight: 700;
+ }
+ .movie {
+  position: absolute;
+  top: 60%;
+  left: 5%;
+ }
+ .title {
+  position: absolute;
+  top: 110%;
+  left: 7%;
+ }
+ .year {
+  position: absolute;
+  top: 114%;
+  left: 10%;
  }
    

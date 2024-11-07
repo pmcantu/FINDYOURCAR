@@ -9,10 +9,10 @@ function displayInput() {
     
 }
 
-// const userInput = document.querySelector("display_typeInfo")
-// userInput.map(userInput => `<div class="display_typeInfo" id="output">
-    // <h3 class="s_results">Search Results: "${displayInput()}"</h3></div>`
-
-
 inputElement.addEventListener("input", displayInput);
 
+// fetch and    api
+
+//  fetch('http://www.omdbapi.com/?i=t3896198&apikey=d32854a2&s=fast')
+// .then(res => res.json())
+// .then(data => console.log(data))
