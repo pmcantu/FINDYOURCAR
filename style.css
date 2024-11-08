@@ -186,7 +186,7 @@
  }
  .display_typeInfo {
   position:absolute;
-  top: 400%;
+  top: 500%;
   left: 30%;
   font-size: 40px;
   font-weight: 700;
@@ -199,18 +199,30 @@
   font-weight: 700;
  }
  .movie {
-  position: absolute;
-  top: 60%;
-  left: 5%;
+  position:absolute;
+
+  top:45%;
+  left:10%;
+  padding: 0 24px;
+
+  
+ }
+ .movie_data {
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  padding: 0 24px;
+
+  
  }
  .title {
   position: absolute;
-  top: 110%;
-  left: 7%;
+  top: 74%;
+  left: 10%;
  }
  .year {
   position: absolute;
-  top: 114%;
-  left: 10%;
+  top: 78%;
+  left: 14%;
  }
    
