@@ -29,5 +29,7 @@ resultList.innerHTML = result.map((movie) =>
 <h4 class = "year">${movie.Year}</h4>
 </div>`))
 .join("")
+console.log(resultList)
  }
+
  

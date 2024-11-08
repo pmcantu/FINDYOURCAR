@@ -200,21 +200,23 @@
  }
  .movie {
   position:absolute;
-
-  top:45%;
+  top:42%;
   left:10%;
-  padding: 0 24px;
-
-  
- }
- .movie_data {
   display: flex;
   justify-content:space-between;
   align-items:center;
   padding: 0 24px;
 
-  
  }
+ .movie_data {
+
+  width: 30%;
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  padding: 0 24px;
+ }
+
  .title {
   position: absolute;
   top: 74%;
@@ -223,6 +225,6 @@
  .year {
   position: absolute;
   top: 78%;
-  left: 14%;
+  left: 20%;
  }
    
